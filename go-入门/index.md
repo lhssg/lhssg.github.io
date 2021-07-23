@@ -1,6 +1,8 @@
 # Go入门
 
 
+{{< music url="../nocry.mp3" autoplay=true loop=all name=说好不哭 artist="周杰伦" >}}
+ 
 # Go 入门
 
 ## 1.1 Hello World
