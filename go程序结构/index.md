@@ -22,13 +22,13 @@
 ​		常量声明:
 
 ```go
-	const LENGTH = 1
+	   const LENGTH = 1
 ```
 
 ​		变量声明:
 
 ```go
-		var 变量名 类型 = 表达式
+	   var 变量名 类型 = 表达式
 
 ​		var i,j,k int  //i,j,k均为int类型,且取值对应int零值->0
 
