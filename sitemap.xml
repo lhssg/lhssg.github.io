@@ -1,21 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://example.org/posts/my-second-post/</loc>
-    <lastmod>2021-07-22T15:57:31+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-07-22T15:57:31+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-07-22T15:57:31+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2021-07-22T15:30:53+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>/</loc><lastmod>2021-07-22T15:57:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/my-second-post/</loc><lastmod>2021-07-22T15:57:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/posts/</loc><lastmod>2021-07-22T15:57:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/my-first-post/</loc><lastmod>2021-07-22T15:30:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

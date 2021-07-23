@@ -1,29 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on 我的go博客</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on 我的go博客</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jul 2021 15:57:31 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Second Post</title>
-      <link>http://example.org/posts/my-second-post/</link>
-      <pubDate>Thu, 22 Jul 2021 15:57:31 +0800</pubDate>
-      
-      <guid>http://example.org/posts/my-second-post/</guid>
-      <description>测试第二篇博客</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Thu, 22 Jul 2021 15:30:53 +0800</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>让我来测试一下吧 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Lihui&#39;s blog</title>
+        <link>/posts/</link>
+        <description>所有文章 | Lihui&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>826429402@qq.com (lihui)</managingEditor>
+            <webMaster>826429402@qq.com (lihui)</webMaster><lastBuildDate>Thu, 22 Jul 2021 15:57:31 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My Second Post</title>
+    <link>/my-second-post/</link>
+    <pubDate>Thu, 22 Jul 2021 15:57:31 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/my-second-post/</guid>
+    <description><![CDATA[测试第二篇博客]]></description>
+</item><item>
+    <title>My First Post</title>
+    <link>/my-first-post/</link>
+    <pubDate>Thu, 22 Jul 2021 15:30:53 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/my-first-post/</guid>
+    <description><![CDATA[让我来测试一下吧 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈]]></description>
+</item></channel>
 </rss>
