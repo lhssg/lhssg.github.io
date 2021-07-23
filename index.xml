@@ -4,21 +4,21 @@
         <link>/</link>
         <description>记录学go的过程</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>826429402@qq.com (lihui)</managingEditor>
-            <webMaster>826429402@qq.com (lihui)</webMaster><lastBuildDate>Thu, 22 Jul 2021 15:57:31 &#43;0800</lastBuildDate>
+            <webMaster>826429402@qq.com (lihui)</webMaster><lastBuildDate>Fri, 23 Jul 2021 15:56:53 &#43;0800</lastBuildDate>
             <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>My Second Post</title>
-    <link>/my-second-post/</link>
-    <pubDate>Thu, 22 Jul 2021 15:57:31 &#43;0800</pubDate>
+    <title>Go语言结构</title>
+    <link>/go%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/</link>
+    <pubDate>Fri, 23 Jul 2021 15:56:53 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/my-second-post/</guid>
-    <description><![CDATA[测试第二篇博客]]></description>
+    <guid>/go%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84/</guid>
+    <description><![CDATA[Go程序结构 1.命名 ​ Go语言中的函数名、变量名、常量名、类型名、语句标号和包名等所有的命名，遵循如下命名规则: ​ 即必须以一个字母或下划线开]]></description>
 </item><item>
-    <title>My First Post</title>
-    <link>/my-first-post/</link>
-    <pubDate>Thu, 22 Jul 2021 15:30:53 &#43;0800</pubDate>
+    <title>Go入门</title>
+    <link>/go-%E5%85%A5%E9%97%A8/</link>
+    <pubDate>Fri, 23 Jul 2021 15:19:53 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/my-first-post/</guid>
-    <description><![CDATA[让我来测试一下吧 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈]]></description>
+    <guid>/go-%E5%85%A5%E9%97%A8/</guid>
+    <description><![CDATA[Go 入门 1.1 Hello World helloworld.go 1 2 3 4 5 6 7 8 9 package main import &#34;fmt&#34; func main(){ ​ fmt.Println(&#34;Hello World&#34;); } ​ Go是一门编译型语言，Go语言的工具链将源代码及其依赖转换成计算机的机器指令，Go语言]]></description>
 </item></channel>
 </rss>
